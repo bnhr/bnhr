@@ -9,9 +9,9 @@
 
 You're visiting GitHub Profile of:
 
-- 👨🏻‍💻 Frontend Dveeloper who loves simplicity.
-- 💻 Technical Writer at [herugunawan.com](https://herugunawan.com).
-- 👨🏻‍⚕ Web Researcher.
+- 👨🏻‍💻 Mediocre Frontend Dveeloper who loves simplicity.
+- 💻 Fragmented Writer at [herugunawan.com](https://herugunawan.com).
+- 👨🏻‍⚕ Tech enthusiast.
 - 🎥 Movie watcher and 🐶 lover.
 
 ## Get in touch;
